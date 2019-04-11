@@ -1,0 +1,28 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    text-decoration: underline;
+    font-family: serif;
+    font-size: 24px;
+}
+
+img {
+    max-width: 60%;
+    border: solid;
+}
+
+div.step {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-bottom: dotted;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+}
