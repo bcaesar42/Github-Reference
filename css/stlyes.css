@@ -5,6 +5,11 @@ body {
 h1 {
     text-decoration: underline;
     font-family: serif;
+    font-size: 32px;
+}
+
+h2 {
+    font-family: sans-serif;
     font-size: 24px;
 }
 
@@ -13,7 +18,7 @@ img {
     border: solid;
 }
 
-div.step {
+.step {
     padding: 10px;
     margin-bottom: 10px;
     border-bottom: dotted;
@@ -24,5 +29,12 @@ div {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#laststep {
+    border-bottom: none;
 }
